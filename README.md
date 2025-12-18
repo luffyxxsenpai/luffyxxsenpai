@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luffyxxsenpai/luffyxxsenpai/snake.svg" alt="Snake animation" />
+<img src="https://github.com/luffyxxsenpai/luffyxxsenpai/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
