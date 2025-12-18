@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hey 👋What's Up?</h3>
+<p align="center">Hey 👋What's Up?<br>I am Shubham, a DevOps Engineer</p>
 
 ###
 
@@ -16,7 +16,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Skilled in -</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
