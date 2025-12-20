@@ -46,7 +46,7 @@
 
 ###
 
-### Currently working on : [nihongo] (https://github.com/luffyxxsenpai/nihongo)
+### Currently working on : (nihongo) [https://github.com/luffyxxsenpai/nihongo]
 
 <img src="https://github.com/luffyxxsenpai/luffyxxsenpai/blob/main/snake.svg" alt="Snake animation" />
 
