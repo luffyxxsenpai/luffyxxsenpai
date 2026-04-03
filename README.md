@@ -4,17 +4,22 @@
 
 ###
 
-<h2 align="center">Hey 👋What's Up?<br>I am Shubham, a DevOps Engineer</h2>
+Hi 👋 My name is Shubham
+========================
 
-###
+DevOps Engineer
+---------------
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+I do something something and that ends up automating a lot of stuff.
 
-###
+spending 2days to automate a single button cause why not.
+
+*   🌍  I'm based in india
+*   🖥️  See my portfolio at [MyWebsite](http://blog.homelain.click)
+*   ✉️  You can contact me at [shubhamkumar05380@gmail.com](mailto:shubhamkumar05380@gmail.com)
+*   🚀  I'm currently working on [production-k8s-foss-stack](http://github.com/luffyxxsenpai/prodk8s-foss)
+*   🧠  I'm currently learning Google Cloud
+*   💬  Ask me about Gundam Papercraft, Anime, Music and YOUTUBE a lot
 
 <h3 align="left">Skilled in -</h3>
 
@@ -46,8 +51,6 @@
 
 ###
 
-### Currently working on : [nihongo](https://github.com/luffyxxsenpai/nihongo)
-
 <img src="https://github.com/luffyxxsenpai/luffyxxsenpai/blob/main/snake.svg" alt="Snake animation" />
 
 ###
@@ -58,13 +61,5 @@
 
 <div align="center">
   <img src="https://count.getloli.com/@:luffyxxsenpai?theme=minecraft&padding=3&offset=1&scale=1.1&align=center&pixelated=1&darkmode=auto"  />
-</div>
-GitHub stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luffyxxsenpai&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyxxsenpai&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luffyxxsenpai&theme=default&hide_border=true" height="150"/>
 </div>
 ###
