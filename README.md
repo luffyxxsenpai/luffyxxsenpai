@@ -59,5 +59,12 @@
 <div align="center">
   <img src="https://count.getloli.com/@:luffyxxsenpai?theme=minecraft&padding=3&offset=1&scale=1.1&align=center&pixelated=1&darkmode=auto"  />
 </div>
-
+GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luffyxxsenpai&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyxxsenpai&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luffyxxsenpai&theme=default&hide_border=true" height="150"/>
+</div>
 ###
